@@ -22,6 +22,10 @@ const About = () => {
                     <UserClass />
                 </div>
             </div>
+
+            <div>
+                
+            </div>
         </div>
     );
 };
